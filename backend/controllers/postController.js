@@ -9,7 +9,7 @@ const createPost = async (req, res) => {
 
     
       if (req.file) {
-          imageUrl = `/uploads/${req.file.filename}`;
+        imageUrl = req.file.path;
       }
       
       if (text.trim() === "" && !req.file) {
