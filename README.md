@@ -148,9 +148,6 @@ SOCIAL-POST-APP
 │   │   ├── authRoutes.js
 │   │   └── postRoutes.js
 │   │
-│   ├── uploads
-│   │   └── .gitkeep
-│   │
 │   ├── .env
 │   ├── .gitignore
 │   ├── package.json
@@ -174,11 +171,13 @@ SOCIAL-POST-APP
 │   │   ├── index.css
 │   │   └── main.jsx
 │   │
+│   ├── .env
 │   ├── .gitignore
 │   ├── eslint.config.js
 │   ├── index.html
 │   ├── package.json
 │   ├── package-lock.json
+│   ├── vercel.json
 │   └── vite.config.js
 │
 ├── screenshots
