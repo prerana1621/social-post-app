@@ -15,9 +15,9 @@ A full-stack social media application built with the **MERN Stack** where users 
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)]()
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://social-post-app-ashy.vercel.app)
 
-[![Backend API](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge)]()
+[![Backend API](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge)](https://social-post-app-ke8i.onrender.com)
 
 ---
 
