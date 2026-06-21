@@ -330,7 +330,7 @@ function Feed() {
 
             {post.imageUrl && (
               <img
-                src={`${import.meta.env.VITE_API_URL.replace("/api", "")}${post.imageUrl}`}
+                src={post.imageUrl}
                 alt={`${post.username}'s post`}
                 style={{
                   width: "100%",
